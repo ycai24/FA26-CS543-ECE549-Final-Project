@@ -1,0 +1,9 @@
+# environment
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# datasets and generated outputs (large; regenerate or download instead)
+data/
+results/
